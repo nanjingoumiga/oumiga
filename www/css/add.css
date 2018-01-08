@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    font-size: 25px;
+}
+header{
+    margin-top: 55px;
+    margin-bottom: 15px;
+    background-color: #EEEEEE;
+}
+.toolbar{
+    margin-bottom: 20px;
+}
